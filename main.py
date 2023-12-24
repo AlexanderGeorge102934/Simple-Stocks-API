@@ -1,6 +1,7 @@
 import requests
 import time 
 
+#Change ticker to what you want
 ticker = "MSFT"
 
 #Go to twelvedata.com, make an account and use the api key and have it set to api_key
